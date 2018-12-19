@@ -1,5 +1,6 @@
 # btcaddyman
-Bitcoin Address Generation Utilities
+Bitcoin Address Generation Utilities  
+Generates offline Pay-to-Pubkey-Hash Addresses
 
 # Requirements
 OpenSSL ~1.1.1 (https://github.com/openssl/openssl)
